@@ -22,13 +22,5 @@
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge&logo=hackaday)
 
----
-
-## 📈 GitHub Stats
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnishant21&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnishant21&layout=compact&theme=tokyonight)
-
----
-
+_ _ _ _
 ⭐ “Keep Learning, Keep Building, Keep Growing.”
