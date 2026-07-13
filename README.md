@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nishant Sharma  
 
-🚀 Passionate about **Cybersecurity | Ethical Hacking | Programming**  
+🚀 Passionate about **Cybersecurity | Ethical Hacking |Web Programming | UI/UX & Graphics Designer| **  
 
 - 🔭 Currently learning **Python, Web Development & Ethical Hacking**
 - 🌱 Exploring **AI, Cybersecurity Tools & Open Source**
